@@ -1,0 +1,26 @@
+html{
+    -webkit-text-size-adjust: 100%;
+}
+
+body{
+    background-color: rgb(49, 6, 128);
+    font-family: rubik, sans-serif;
+    line-height: 1.8;
+    color: whitesmoke;
+}
+
+.nom{
+    font-size: 40px;
+    font-weight: bold;
+}
+.info{
+    font-size: 25px;
+}
+main{
+    text-align : center;
+    border-style: hidden;
+    margin-top: 225px; 
+}
+.icon i{
+    padding: 10px;
+}
